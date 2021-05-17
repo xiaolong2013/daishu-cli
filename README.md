@@ -13,10 +13,10 @@
 - `daishu init vue-template myVue`
 - `daishu config get`
 - `daishu config set type orgs`
-- `daishu config set registry vuejs-templates`
+- `daishu config set registry webpack-bundle`
 
 - `daishu config set type users`
-- `daishu config set registry YvetteLau`
+- `daishu config set registry xiaolong2013`
 
 ### 发布
 
