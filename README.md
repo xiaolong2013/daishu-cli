@@ -10,7 +10,7 @@
 
 此时就可以使用 `daishu` 命令了。
 
-- `daishu init vue-template myVue`
+- `daishu init webpack-bundl myWebpack`
 - `daishu config get`
 - `daishu config set type orgs`
 - `daishu config set registry webpack-bundle`
