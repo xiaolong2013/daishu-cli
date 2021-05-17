@@ -10,7 +10,7 @@
 
 此时就可以使用 `daishu` 命令了。
 
-- `daishu init webpack-bundl myWebpack`
+- `daishu init webpack-bundle myWebpack`
 - `daishu config get`
 - `daishu config set type orgs`
 - `daishu config set registry webpack-bundle`
